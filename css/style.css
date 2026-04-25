@@ -1,0 +1,9 @@
+body {font-family: sans-serif;}
+
+h1 {font-style: bold; font-size: 14pt;}
+
+#ingredients {font: Verdana;  font-style: italic; color: burlywood;}
+
+li {font-family: monospace;}
+
+.middle {text-align: center;}
