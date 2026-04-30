@@ -1,0 +1,15 @@
+p {font-family: sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative;wght@400;700;900&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+@font-face {
+    font-family: "RubikStorm";
+    src: url(.\font\RubikStorm-Regular.ttf);
+}
+h1 {font-family: 'Cinzel Decorative';}
+h2 {font-family: 'Crimson Text';}
+blockquote {font-family: RubikStorm;}
+li {font-family: Georgia;
+    font-style: italic; 
+    font-weight: bold; 
+    font-size: 1.2em; 
+    font-variant: small-caps;}
